@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg911"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Default.svg">
+  <defs
+     id="defs905">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1607">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.5"
+         offset="0"
+         id="stop1603" />
+      <stop
+         id="stop1615"
+         offset="0.15909106"
+         style="stop-color:#000000;stop-opacity:0.48" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.41"
+         offset="0.84090912"
+         id="stop1617" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.4"
+         offset="1"
+         id="stop1605" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient849"
+       id="linearGradient1565"
+       x1="12.000002"
+       y1="0.99998546"
+       x2="12.000001"
+       y2="23"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient849"
+       inkscape:collect="always">
+      <stop
+         id="stop839"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.85" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.55"
+         offset="0.25"
+         id="stop841" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.3"
+         offset="0.5"
+         id="stop843" />
+      <stop
+         id="stop845"
+         offset="0.75"
+         style="stop-color:#ffffff;stop-opacity:0.05" />
+      <stop
+         id="stop847"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1607"
+       id="linearGradient1609"
+       x1="11.999999"
+       y1="0.9999963"
+       x2="12"
+       y2="23"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1621">
+      <path
+         id="path1623"
+         d="M 4.5,1 A 3.5,3.5 0 0 0 1,4.5 v 15 A 3.5,3.5 0 0 0 4.5,23 h 15 A 3.5,3.5 0 0 0 23,19.5 V 4.5 A 3.5,3.5 0 0 0 19.5,1 Z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58023167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="10.476331"
+     inkscape:cy="11.919153"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="724"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid967"
+       empspacing="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata908">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-290.65)">
+    <path
+       style="opacity:1;fill:url(#linearGradient1565);fill-opacity:1;stroke:none;stroke-width:1.58023167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4.5 1 A 3.5 3.5 0 0 0 1 4.5 L 1 19.5 A 3.5 3.5 0 0 0 4.5 23 L 19.5 23 A 3.5 3.5 0 0 0 23 19.5 L 23 4.5 A 3.5 3.5 0 0 0 19.5 1 L 4.5 1 z "
+       transform="translate(0,290.65)"
+       id="path969" />
+    <path
+       id="path1014"
+       transform="translate(0,290.65)"
+       d="M 4.5 1 A 3.5 3.5 0 0 0 1 4.5 L 1 19.5 A 3.5 3.5 0 0 0 4.5 23 L 19.5 23 A 3.5 3.5 0 0 0 23 19.5 L 23 4.5 A 3.5 3.5 0 0 0 19.5 1 L 4.5 1 z "
+       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient1609);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       clip-path="url(#clipPath1621)" />
+    <path
+       style="opacity:0.32;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.58023167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1 19.5 L 1 20.5 A 3.5 3.5 0 0 0 4.5 24 L 19.5 24 A 3.5 3.5 0 0 0 23 20.5 L 23 19.5 A 3.5 3.5 0 0 1 19.5 23 L 4.5 23 A 3.5 3.5 0 0 1 1 19.5 z "
+       transform="translate(0,290.65)"
+       id="path1644" />
+    <path
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.64255309;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4.5 2 C 3.1192881 2 2 3.1192881 2 4.5 L 2 5.5 C 2 4.11929 3.1192881 3 4.5 3 L 19.5 3 C 20.880712 3 22 4.11929 22 5.5 L 22 4.5 C 22 3.1192881 20.880712 2 19.5 2 L 4.5 2 z "
+       transform="translate(0,290.65)"
+       id="path26" />
+  </g>
+</svg>
