@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Mission Control
+Exec=xdotool key Shift_L+Super_L+w
+Terminal=false
+Type=Application
+Icon=~/.themes/Poppy-OS-X-Mavesemite/plank/mc.svg
