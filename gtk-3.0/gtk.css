@@ -1759,6 +1759,16 @@ spinbutton.vertical > entry:drop(active) + button {
     border-top-color: #F08437;
 }
 
+spinbutton button.up {
+    -gtk-icon-source: -gtk-scaled(url("Resources/ArtFile.bin/GKStepper/ArrowUp.svg"), 
+								  url("Resources/ArtFile.bin/GKStepper/ArrowUp@2.svg"));
+}
+
+spinbutton button.down {
+    background-image: -gtk-scaled(url("Resources/ArtFile.bin/GKComboBox/ArrowDown.svg"), 
+								  url("Resources/ArtFile.bin/GKComboBox/ArrowDown@2.svg"));
+}
+
 /*
 combobox button.combo {
     min-height: 0px;
@@ -5682,20 +5692,38 @@ row.activatable:selected:hover {
 }
 
 .app-notification {
-    padding: 10px;
-    color: #BAC3CF;
-    background-color: rgba(53, 57, 69, 0.95);
-    background-clip: border-box;
-    border-radius: 0 0 2px 2px;
-    border-width: 0 1px 1px 1px;
+    padding: 20px;
+    color: #000;
+    background-color: alpha(#ececec, 0.9);
+    border-radius: 0;
     border-style: solid;
-    border-color: rgba(31, 33, 40, 0.95);
+	border-width: 1px;
+	border-top-width: 0px;
+	border-color: alpha(#000, 0.25);
+	box-shadow: inset  0px   1px alpha(#000, 0.03),
+				inset  0px   2px alpha(#000, 0.025),
+				inset  0px   3px alpha(#000, 0.04),
+				inset  0px   4px alpha(#000, 0.05),
+				inset  0px   5px alpha(#000, 0.023),
+				inset  0px   6px alpha(#000, 0.03),
+				inset  0px   7px alpha(#000, 0.02),
+				inset  0px   8px alpha(#000, 0.015),
+				inset  0px   9px alpha(#000, 0.015),
+				inset  0px  10px alpha(#000, 0.005)/*,
+	
+					  -1px   0px alpha(#000, 0.16),
+					  -2px   0px alpha(#000, 0.045),
+					  -3px   0px alpha(#000, 0.035),
+					  -4px   0px alpha(#000, 0.02),
+					  -5px   0px alpha(#000, 0.01),
+					  -6px   0px alpha(#000, 0.005)*/;
 }
 
 .app-notification border {
     border: none;
 }
 
+/*
 .app-notification button {
     color: #BAC3CF;
     border-color: rgba(26, 28, 34, 0.35);
@@ -5726,6 +5754,7 @@ row.activatable:selected:hover {
     border-color: rgba(26, 28, 34, 0.35);
     background-color: rgba(102, 109, 132, 0.2);
 }
+*/
 
 expander arrow {
     min-width: 16px;
