@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="EntryArrow.svg">
+   sodipodi:docname="ArrowsDisabled.svg">
   <defs
      id="defs2">
     <clipPath
@@ -23,10 +23,9 @@
        id="clipPath852">
       <path
          id="path854"
-         d="m 6,300.76667 2.5,4 2.5,-4 z"
+         d="m 8.5,293.76667 -2.5,4 h 5 z m -2.5,7 2.5,4 2.5,-4 z"
          style="opacity:1;fill:#5f5f5f;fill-opacity:1;stroke:none;stroke-width:1.92597425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
+         inkscape:connector-curvature="0" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -36,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-1.3555223"
-     inkscape:cy="2.7245271"
+     inkscape:zoom="16"
+     inkscape:cx="7.0997943"
+     inkscape:cy="7.6484388"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,8 +54,7 @@
      inkscape:window-height="724"
      inkscape:window-x="0"
      inkscape:window-y="22"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="true" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -65,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,34 +72,34 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-289.76667)">
-    <path
-       id="path856"
-       d="m 6,298.76667 2.5,4 2.5,-4 z"
-       style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.92597425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="opacity:1;fill:#5f5f5f;fill-opacity:1;stroke:none;stroke-width:1.92597425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 6,297.76667 2.5,4 2.5,-4 z"
-       id="rect10"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
     <g
-       id="g850"
-       clip-path="url(#clipPath852)"
-       transform="translate(0,-3)">
+       id="g827"
+       style="opacity:0.5">
       <path
          inkscape:connector-curvature="0"
-         style="opacity:0.1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 6,301.76676 2.5,4 2.5,-4 z"
-         id="path842"
-         sodipodi:nodetypes="cccc" />
+         style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.92597425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 8.5,294.76667 -2.5,4 h 5 z m -2.5,7 2.5,4 2.5,-4 z"
+         id="path856" />
       <path
-         id="path844"
-         d="m 6,300.76676 2.5,4 2.5,-4 z"
-         style="opacity:0.25;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
+         id="rect10"
+         transform="translate(0,289.76667)"
+         d="M 8.5 4 L 6 8 L 11 8 L 8.5 4 z M 6 11 L 8.5 15 L 11 11 L 6 11 z "
+         style="opacity:1;fill:#5f5f5f;fill-opacity:1;stroke:none;stroke-width:1.92597425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         clip-path="url(#clipPath852)"
+         id="g850"
+         style="">
+        <path
+           id="path842"
+           d="m 8.5,294.76676 -2.5,4 h 5 z m -2.5,7 2.5,4 2.5,-4 z"
+           style="opacity:0.1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.25;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 8.5,293.76676 -2.5,4 h 5 z m -2.5,7 2.5,4 2.5,-4 z"
+           id="path844" />
+      </g>
     </g>
   </g>
 </svg>
