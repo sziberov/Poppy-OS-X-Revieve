@@ -1788,7 +1788,7 @@ combobox button.combo {
 combobox arrow {
     background-image: -gtk-scaled(url("Resources/ArtFile.bin/GKComboBox/Arrows.svg"), 
 								  url("Resources/ArtFile.bin/GKComboBox/Arrows@2.svg"));
-    background-position: center right;
+    background-position: right;
     background-repeat: no-repeat;
     min-width: 17px;
     min-height: 19px;
@@ -3674,13 +3674,16 @@ menu menuitem,
 .menu menuitem {
     /*min-height: 19px;*/
     min-width: 40px;
-	padding: 1px 1px 2px 1px;
+	padding: 0px;
 	border-style: solid;
 	border-width: 0px;
 	border-top-width: 1px;
 	border-bottom-width: 1px;
 	border-top-color: transparent;
 	border-bottom-color: transparent;
+	font-family: Lucida Sans Unicode;
+	font-weight: regular;
+	font-size: 12px;
 }
 
 menu menuitem:hover,

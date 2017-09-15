@@ -36,8 +36,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="7.0997943"
-     inkscape:cy="7.6484388"
+     inkscape:cx="11.96516"
+     inkscape:cy="8.7190443"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,12 +83,12 @@
       <path
          id="rect10"
          transform="translate(0,289.76667)"
-         d="M 8.5 4 L 6 8 L 11 8 L 8.5 4 z M 6 11 L 8.5 15 L 11 11 L 6 11 z "
-         style="opacity:1;fill:#5f5f5f;fill-opacity:1;stroke:none;stroke-width:1.92597425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="M 8.5,4 6,8 h 5 z M 6,11 8.5,15 11,11 Z"
+         style="opacity:1;fill:#5f5f5f;fill-opacity:1;stroke:none;stroke-width:1.92597425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <g
          clip-path="url(#clipPath852)"
-         id="g850"
-         style="">
+         id="g850">
         <path
            id="path842"
            d="m 8.5,294.76676 -2.5,4 h 5 z m -2.5,7 2.5,4 2.5,-4 z"

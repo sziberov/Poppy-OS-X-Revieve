@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="arrows.svg">
+   sodipodi:docname="Arrows.svg">
   <defs
      id="defs2">
     <clipPath
@@ -35,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="8.8092568"
-     inkscape:cy="6.2922772"
+     inkscape:zoom="11.313709"
+     inkscape:cx="23.259565"
+     inkscape:cy="10.606664"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -79,9 +79,9 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:#5f5f5f;fill-opacity:1;stroke:none;stroke-width:1.92597425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.5 4 L 6 8 L 11 8 L 8.5 4 z M 6 11 L 8.5 15 L 11 11 L 6 11 z "
-       transform="translate(0,289.76667)"
-       id="rect10" />
+       d="m 8.5,293.76667 -2.5,4 h 5 z m -2.5,7 2.5,4 2.5,-4 z"
+       id="rect10"
+       inkscape:connector-curvature="0" />
     <g
        id="g850"
        clip-path="url(#clipPath852)">

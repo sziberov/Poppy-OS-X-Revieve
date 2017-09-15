@@ -677,7 +677,7 @@ StScrollBar StButton#hhandle:active {
 
 .popup-menu {
     min-width: 200px;
-    font-family: Ubuntu;
+    font-family: Lucida Sans Unicode;
 }
 
 .popup-submenu-menu-item:open {
@@ -716,20 +716,19 @@ StScrollBar StButton#hhandle:active {
 	border-top-width: 1px;
 	
 	font-weight: regular;
-	font-size: 13px;
-	
-	/*min-height: 19px;*/
+	font-size: 12px;
 }
 
 .popup-menu .popup-menu-item:ltr {
-    padding: 1px 20px 3px 0;
+    padding: 0px 21px 0px 0;
 }
 
 .popup-menu .popup-menu-item:rtl {
-    padding: 1px 0 3px 20px;
+    padding: 0px 0 0px 21px;
 }
 
-.popup-menu .popup-menu-item.selected {
+.popup-menu .popup-menu-item.selected,
+.popup-menu .popup-menu-item:active {
     background-gradient-direction: vertical;
     background-gradient-start: #618cf0;
     background-gradient-end: #1c65ed;
@@ -791,7 +790,7 @@ StScrollBar StButton#hhandle:active {
 
 .popup-separator-menu-item {
     height: 1px;
-    margin: 0px 1px;
+    margin: 1px 0px 0px 0px;
     background-color: transparent;
     border-color: rgba(128, 128, 128, .3);
     border-bottom-width: 1px;
@@ -991,6 +990,8 @@ StScrollBar StButton#hhandle:active {
 }
 
 #panel {
+	font-family: Lucida Sans Unicode;
+	font-size: 14px;
     font-weight: normal;
     height: 22px;
     min-height: 22px;
@@ -1183,8 +1184,9 @@ StScrollBar StButton#hhandle:active {
     spinner-image: url("Resources/Common/Other/process-working.svg");
     spacing: 0px;
     padding: 0 10px;
-    font-family: Ubuntu;
-    font-weight: medium;
+	font-family: Lucida Sans Unicode;
+	font-size: 14px;
+    font-weight: normal;
 }
 
 #appMenu .label-shadow {
@@ -1853,8 +1855,13 @@ StScrollBar StButton#hhandle:active {
 }
 
 .dash-item-container > StWidget,
-.dash-item-container > StWidget:rtl,
-.dash-item-container > StWidget {
+.dash-item-container > StWidget:rtl {
+    padding: 0px 0px 0px 0px;
+}
+
+
+#dashtodockContainer .dash-item-container > StWidget,
+#dashtodockContainer .dash-item-container > StWidget:rtl {
     padding: 0px 0px 16px 0px;
 }
 
