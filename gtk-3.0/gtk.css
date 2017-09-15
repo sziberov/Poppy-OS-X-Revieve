@@ -6272,17 +6272,21 @@ infobar.error button:disabled:checked,
 }
 
 tooltip {
-    border-radius: 2px;
-    box-shadow: none;
+    border-radius: 0px;
+    /*border: 1px solid alpha(#000, 0.13);*/
+	box-shadow: inset 0px 0px 0px 1px alpha(#000, 0.26);
 }
 
 tooltip.background {
-    background-color: rgba(255, 255, 255, 0.85);
+    background-color: #fefec3;
     background-clip: padding-box;
 }
 
 tooltip.background label {
-    padding: 4px;
+	font-family: Myriad Set Pro;
+	font-size: 12px;
+	font-weight: 500;
+    padding: 0px;
 }
 
 tooltip decoration {
@@ -6291,7 +6295,7 @@ tooltip decoration {
 
 tooltip * {
     background-color: transparent;
-    color: #505050;
+    color: #000;
 }
 
 colorswatch,
