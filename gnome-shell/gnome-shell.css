@@ -677,7 +677,7 @@ StScrollBar StButton#hhandle:active {
 
 .popup-menu {
     min-width: 200px;
-    font-family: Lucida Sans Unicode;
+    font-family: Myriad Set Pro;
 }
 
 .popup-submenu-menu-item:open {
@@ -692,7 +692,7 @@ StScrollBar StButton#hhandle:active {
 	border-top-color: #bac5d7;
 	box-shadow: inset 0px -1px #929fba;
 	
-	font-weight: normal;
+	font-weight: 500;
 }
 
 .popup-menu .popup-sub-menu {
@@ -715,16 +715,16 @@ StScrollBar StButton#hhandle:active {
 	border-width: 0px;
 	border-top-width: 1px;
 	
-	font-weight: regular;
-	font-size: 12px;
+	font-weight: 500;
+	font-size: 16px;
 }
 
 .popup-menu .popup-menu-item:ltr {
-    padding: 0px 21px 0px 0;
+    padding: 0 21px 1px 0;
 }
 
 .popup-menu .popup-menu-item:rtl {
-    padding: 0px 0 0px 21px;
+    padding: 0 0 1px 21px;
 }
 
 .popup-menu .popup-menu-item.selected,
@@ -814,7 +814,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .popup-menu-icon {
-    icon-size: 1.09em;
+    icon-size: 16px;
 }
 
 .background-menu {
@@ -990,9 +990,9 @@ StScrollBar StButton#hhandle:active {
 }
 
 #panel {
-	font-family: Lucida Sans Unicode;
-	font-size: 14px;
-    font-weight: normal;
+    font-family: Myriad Set Pro;
+	font-size: 16px;
+    font-weight: 500;
     height: 22px;
     min-height: 22px;
 
@@ -1048,7 +1048,7 @@ StScrollBar StButton#hhandle:active {
 #panel .panel-button {
     -natural-hpadding: 10px;
     -minimum-hpadding: 0px;
-    font-weight: normal;
+    font-weight: 500;
     color: #000;
     icon-shadow: 0 1px rgba(255,255,255,0.5);
 	text-shadow: 0 1px rgba(255,255,255,0.25);
@@ -1184,9 +1184,9 @@ StScrollBar StButton#hhandle:active {
     spinner-image: url("Resources/Common/Other/process-working.svg");
     spacing: 0px;
     padding: 0 10px;
-	font-family: Lucida Sans Unicode;
-	font-size: 14px;
-    font-weight: normal;
+	font-family: Myriad Set Pro;
+	font-size: 16px;
+    font-weight: 600;
 }
 
 #appMenu .label-shadow {
@@ -1194,7 +1194,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .aggregate-menu {
-    min-width: 23.5em;
+    min-width: 300px;
 }
 
 .aggregate-menu .popup-menu-icon {
@@ -1202,27 +1202,29 @@ StScrollBar StButton#hhandle:active {
 }
 
 .system-menu-action {
-    padding: 13px;
-    color: #D3DAE3;
-    border-radius: 32px;
+    padding: 9px 10px 10px 10px;
+    color: #000;
+    border-radius: 50px;
     /* wish we could do 50% */
     
-    border: 1px solid transparent;
+	border-width: 0px;
+	border-top-width: 1px;
+	border-color: transparent;
 }
 
 .system-menu-action:hover,
-.system-menu-action:focus {
-    transition-duration: 0ms;
-    padding: 13px;
-    color: #D3DAE3;
-    background-color: transparent;
-    border: 1px solid #206AD9;
-}
-
+.system-menu-action:focus,
 .system-menu-action:active {
-    color: #ffffff;
-    background-color: #206AD9;
-    border: 1px solid #206AD9;
+    background-gradient-direction: vertical;
+    background-gradient-start: #618cf0;
+    background-gradient-end: #1c65ed;
+    color: white;
+
+	border-style: solid;
+	border-width: 0px;
+	border-top-width: 1px;
+	border-top-color: #5783e7;
+	box-shadow: inset 0px -1px #0558e3;
 }
 
 .system-menu-action > StIcon {
@@ -1231,9 +1233,11 @@ StScrollBar StButton#hhandle:active {
 
 #calendarArea {
     padding: /*0.75em*/ 0;
-    background: #2d2d32;
+    background: #3f4045;
     
-    box-shadow: inset 0px 0px 20px 0px rgba(0,0,0,0.75);
+    box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.75);
+	color: white;
+	text-shadow: 0 1px 3px black;
 }
 
 .calendar {
@@ -1457,13 +1461,15 @@ StScrollBar StButton#hhandle:active {
 }
 
 .message-list {
-    background: #2d2d32;
-    box-shadow: inset 0px 0px 20px 0px rgba(0,0,0,0.75);
+    background: #3f4045;
+    box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.75);
     width: 400px;
     max-width: 400px;
     padding: 0px;
     color: #999;
-    font-family: sfns display, helvetica, segoe ui, sans
+    font-family: Myriad Set Pro;
+	font-size: 13px;
+	text-shadow: 0 1px 3px black;
 }
 
 .message-list-sections {
@@ -1497,21 +1503,31 @@ StScrollBar StButton#hhandle:active {
 
 .message-list-section-title {
     font-weight: bold;
-    color: #efefef;
+    color: white;
     background: transparent;
     padding: 4px 16px;
     border-radius: 0px;
-    text-shadow: 0px 1px 0px black;
 }
 
 .message-list-section-title:hover,
 .message-list-section-title:focus {
     background: transparent;
     color: white;
-    text-shadow: 0px 2px 0px black;
 }
 
-.message-list-section-title:active {} .message-list-section-close > StIcon {
+.message-list-section .message-title {
+    font-weight: bold;
+    color: #fff;
+    padding-bottom: 4px
+}
+
+.message-list-section .message-content {
+    padding: 8px;
+	color: #fff;
+}
+
+.message-list-section-title:active {} 
+.message-list-section-close > StIcon {
     icon-size: 16px;
     border-radius: 8px;
     color: #555;
@@ -1532,7 +1548,6 @@ StScrollBar StButton#hhandle:active {
     border-bottom: 1px;
     border-radius: 0px;
     box-shadow: inset 0px -1px 0px rgba(0, 0, 0, .25);
-    text-shadow: 0px 1px 0px 0px rgba(0, 0, 0, .25);
     color: white;
     padding-left: 8px
 }
@@ -1867,14 +1882,15 @@ StScrollBar StButton#hhandle:active {
 
 .dash-label {
     border-radius: 50px;
-    padding: 1px 11px 3px 11px;
+    padding: 1px 11px 2px 11px;
     color: white;
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
     -x-offset: 3px;
     text-shadow: 0 1px 3px black;
-    font-family: Ubuntu;
-    font-weight: medium;
+    font-family: Myriad Set Pro;
+	font-size: 16px;
+    font-weight: 500;
 }
 
 .bottom .dash-label,
