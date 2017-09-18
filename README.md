@@ -5,6 +5,8 @@
 ## Fonts
 You must install the fonts manually from [`/Required/Fonts`](https://github.com/sziberov/Poppy-OS-X-Revieve/tree/master/Required/Fonts) directory, for the theme to look properly.
 Copy the fonts and paste them into `~/.fonts` folder. Then restart your shell or logout/login again.
+
+Additionaly you need to set fonts preferences like [this](http://storage1.static.itmages.ru/i/17/0905/h_1504614979_4811227_07efa33a1e.png) in Ubuntu Tweak. 
 ## Extensions
 * [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
