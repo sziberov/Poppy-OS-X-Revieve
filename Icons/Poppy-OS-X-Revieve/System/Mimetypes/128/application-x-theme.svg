@@ -29,9 +29,9 @@
      inkscape:window-height="724"
      id="namedview37"
      showgrid="false"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="-7.6477235"
-     inkscape:cy="3.0756011"
+     inkscape:zoom="1"
+     inkscape:cx="-0.79019483"
+     inkscape:cy="87.900139"
      inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:window-maximized="1"
@@ -422,16 +422,6 @@
        y2="209.5" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath1292">
-      <path
-         sodipodi:nodetypes="sccssccss"
-         inkscape:connector-curvature="0"
-         id="path1294"
-         d="m 58.75,186 c -0.9695,0 -1.75,0.7805 -1.75,1.75 v 44.39844 C 57,232.61993 57.446,233 58,233 h 12 c 0.554,0 1,-0.38007 1,-0.85156 V 187.75 C 71,186.7805 70.2195,186 69.25,186 Z"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.63984001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
        id="clipPath1300">
       <path
          sodipodi:nodetypes="sccssccss"
@@ -554,85 +544,6 @@
          stdDeviation="0.331875"
          id="feGaussianBlur1690" />
     </filter>
-    <clipPath
-       id="clipPath1151-0"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26344013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1153-6"
-         width="120"
-         height="112"
-         x="4"
-         y="148"
-         rx="5"
-         ry="5" />
-    </clipPath>
-    <clipPath
-       id="clipPath1181-6"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.26344013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1183-1"
-         width="120"
-         height="112"
-         x="4"
-         y="8"
-         rx="5"
-         ry="5" />
-    </clipPath>
-    <clipPath
-       id="clipPath1292-5"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.63984001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 58.75,186 c -0.9695,0 -1.75,0.7805 -1.75,1.75 v 44.39844 C 57,232.61993 57.446,233 58,233 h 12 c 0.554,0 1,-0.38007 1,-0.85156 V 187.75 C 71,186.7805 70.2195,186 69.25,186 Z"
-         id="path1294-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sccssccss" />
-    </clipPath>
-    <clipPath
-       id="clipPath1300-4"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.63984001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 58.75,46 C 57.7805,46 57,46.7805 57,47.75 V 92.14844 C 57,92.61993 57.446,93 58,93 h 12 c 0.554,0 1,-0.38007 1,-0.85156 V 47.75 C 71,46.7805 70.2195,46 69.25,46 Z"
-         id="path1302-7"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sccssccss" />
-    </clipPath>
-    <clipPath
-       id="clipPath1312-6"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.63984001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 58.75,46 C 57.7805,46 57,46.7805 57,47.75 V 92.14844 C 57,92.61993 57.446,93 58,93 h 12 c 0.554,0 1,-0.38007 1,-0.85156 V 47.75 C 71,46.7805 70.2195,46 69.25,46 Z"
-         id="path1314-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sccssccss" />
-    </clipPath>
-    <clipPath
-       id="clipPath1340-9"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.63984001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 58.75,46 C 57.7805,46 57,46.7805 57,47.75 V 92.14844 C 57,92.61993 57.446,93 58,93 h 12 c 0.554,0 1,-0.38007 1,-0.85156 V 47.75 C 71,46.7805 70.2195,46 69.25,46 Z"
-         id="path1342-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sccssccss" />
-    </clipPath>
-    <clipPath
-       id="clipPath1390-7"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.83168626;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.34901961"
-         id="rect1392-4"
-         width="17"
-         height="38"
-         x="35.5"
-         y="185"
-         rx="1"
-         ry="1" />
-    </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2073"
