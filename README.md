@@ -3,6 +3,7 @@
 [OpenDesktop](https://goo.gl/jAuYYU) |
 ------------------------------------ |
 [Theme](https://goo.gl/26dA43)       |
+[Icons](https://goo.gl/fy4YKi)       |
 [Cursors](https://goo.gl/qkqYc5)     |
 
 # Installation Notes
